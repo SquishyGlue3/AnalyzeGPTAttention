@@ -1,0 +1,27 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Results (generated output)
+results/
+results.csv
+
+# Data files
+ex1_data.csv
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
