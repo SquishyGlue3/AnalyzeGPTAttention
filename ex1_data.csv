@@ -1,0 +1,81 @@
+Prompt,Subject Word(s),Target Token,Domain
+The capital of France is,France,Paris,Geography
+The capital of Italy is,Italy,Rome,Geography
+The capital of Germany is,Germany,Berlin,Geography
+The capital of Spain is,Spain,Madrid,Geography
+The capital of Japan is,Japan,Tokyo,Geography
+The capital of Russia is,Russia,Moscow,Geography
+The capital of China is,China,Beijing,Geography
+The capital of Canada is,Canada,Ottawa,Geography
+The capital of England is,England,London,Geography
+The capital of Australia is,Australia,Canberra,Geography
+The capital of South Korea is,Korea,Seoul,Geography
+The capital of Egypt is,Egypt,Cairo,Geography
+The capital of Greece is,Greece,Athens,Geography
+The official language of Brazil is,Brazil,Portuguese,Geography
+The official language of Mexico is,Mexico,Spanish,Geography
+The Eiffel Tower is located in,Tower,Paris,Geography
+The Colosseum is located in,Colosseum,Rome,Geography
+The Great Wall is located in,Wall,China,Geography
+The currency of Japan is the,Japan,Yen,Geography
+The currency of Russia is the,Russia,Ruble,Geography
+The currency of Mexico is the,Mexico,Peso,Geography
+The largest desert in the world is the,desert,Sahara,Geography
+The longest river in the world is the,river,Nile,Geography
+Mount Everest is located in the,Everest,Himalayas,Geography
+The mountain range in South America is the,America,Andes,Geography
+The founder of Microsoft is Bill,Microsoft,Gates,Tech & Science
+The co-founder of Apple is Steve,Apple,Jobs,Tech & Science
+The founder of Facebook is Mark,Facebook,Zuckerberg,Tech & Science
+The founder of Amazon is Jeff,Amazon,Bezos,Tech & Science
+The CEO of SpaceX is Elon,SpaceX,Musk,Tech & Science
+The creator of Linux is Linus,Linux,Torvalds,Tech & Science
+The co-founder of Google is Larry,Google,Page,Tech & Science
+The founder of the Ford Motor Company is Henry,Ford,Ford,Tech & Science
+The founder of Walmart is Sam,Walmart,Walton,Tech & Science
+The inventor of the light bulb is Thomas,bulb,Edison,Tech & Science
+The inventor of the telephone is Alexander,telephone,Bell,Tech & Science
+The scientist who formulated the theory of relativity is Albert,relativity,Einstein,Tech & Science
+The naturalist who proposed the theory of evolution is Charles,evolution,Darwin,Tech & Science
+The physicist known for the uncertainty principle is Werner,principle,Heisenberg,Tech & Science
+The computer scientist who cracked the Enigma code is Alan,Enigma,Turing,Tech & Science
+The company that manufactures the iPhone is,iPhone,Apple,Tech & Science
+The company that manufactures the PlayStation is,PlayStation,Sony,Tech & Science
+The company that manufactures the Xbox is,Xbox,Microsoft,Tech & Science
+The video-sharing platform owned by Google is,Google,YouTube,Tech & Science
+The electric car company named after an inventor is,inventor,Tesla,Tech & Science
+The author of the Harry Potter series is Joanne,Potter,Rowling,Arts & Culture
+The playwright who wrote Romeo and Juliet is William,Juliet,Shakespeare,Arts & Culture
+The author of the dystopian novel 1984 is George,1984,Orwell,Arts & Culture
+The creator of Sherlock Holmes is Arthur,Holmes,Doyle,Arts & Culture
+The author of A Song of Ice and Fire is George,Fire,Martin,Arts & Culture
+The author of The Lord of the Rings is John,Rings,Tolkien,Arts & Culture
+The author of To Kill a Mockingbird is Harper,Mockingbird,Lee,Arts & Culture
+The author of The Great Gatsby is Scott,Gatsby,Fitzgerald,Arts & Culture
+The artist who painted the Mona Lisa is Leonardo,Lisa,Vinci,Arts & Culture
+The artist who painted The Starry Night is Vincent,Night,Gogh,Arts & Culture
+The painter who co-founded Cubism is Pablo,Cubism,Picasso,Arts & Culture
+The artist who painted The Persistence of Memory is Salvador,Memory,Dali,Arts & Culture
+The classical composer who famously went deaf is Ludwig,deaf,Beethoven,Arts & Culture
+The composer of The Magic Flute is Wolfgang,Flute,Mozart,Arts & Culture
+The director of the movie Titanic is James,Titanic,Cameron,Arts & Culture
+The director of the movie Jurassic Park is Steven,Park,Spielberg,Arts & Culture
+The director of the movie Pulp Fiction is Quentin,Fiction,Tarantino,Arts & Culture
+The director of the movie The Godfather is Francis,Godfather,Coppola,Arts & Culture
+The creator of Mickey Mouse is Walt,Mouse,Disney,Arts & Culture
+The creator of the Star Wars franchise is George,Wars,Lucas,Arts & Culture
+The basketball team Lakers play in Los,Lakers,Angeles,Sports
+The basketball team Bulls play in,Bulls,Chicago,Sports
+The basketball team Celtics play in,Celtics,Boston,Sports
+The basketball team Heat play in,Heat,Miami,Sports
+The basketball team Knicks play in New,Knicks,York,Sports
+The baseball team Yankees play in New,Yankees,York,Sports
+The baseball team Dodgers play in Los,Dodgers,Angeles,Sports
+The baseball team Red Sox play in,Sox,Boston,Sports
+The football team Cowboys play in,Cowboys,Dallas,Sports
+The football team Steelers play in,Steelers,Pittsburgh,Sports
+The football team Patriots play in New,Patriots,England,Sports
+The hockey team Bruins play in,Bruins,Boston,Sports
+The soccer club Arsenal play in,Arsenal,London,Sports
+The soccer club Chelsea play in,Chelsea,London,Sports
+The soccer club Juventus play in,Juventus,Turin,Sports
