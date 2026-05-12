@@ -15,7 +15,7 @@ env/
 .ipynb_checkpoints/
 
 # Results (generated output)
-results.csv
+results2.csv
 
 # OS
 Thumbs.db
